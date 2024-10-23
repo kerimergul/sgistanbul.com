@@ -1,0 +1,41 @@
+.seperator {
+  width: 100%;
+}
+
+.controls-wrapper {
+  width: 100%;
+}
+
+.carousel-wrapper {
+  width: 100%; 
+  margin-bottom:10rem;
+  margin-top: 10rem;
+}
+
+.carousel { 
+ 
+}
+
+.rec-carousel-item:focus {
+  outline: none;    
+}
+.rec.rec-arrow {
+  background-color: #fff !important;
+  color: lightgrey
+}
+
+.rec.rec-arrow:hover {
+  background-color: #fff !important;
+  color: rgb(51, 51, 51)
+}
+.rec.rec-arrow:focus {
+  outline: none;
+  color: rgb(51, 51, 51);
+  box-shadow: inset 0 0 1px 1px lightgrey;
+}
+.rec.rec-arrow:active {
+  outline: none;
+  color: rgb(51, 51, 51);
+  box-shadow: inset 0 0 1px 1px lightgrey;
+}
+
